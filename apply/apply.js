@@ -12,7 +12,7 @@ const submitBtn   = document.getElementById('submit-btn');
 
 // ── Google Apps Script Web App URL ──
 // ⚠️ 以下のURLを実際のGoogle Apps Script デプロイURLに差し替えてください
-const GAS_URL = 'https://script.google.com/macros/s/AKfycbyYeMZxisJJ_52SpfTGtJsYRDmS0JLEvKZlmfefcFaEd_ze1MzCozT_OgeIfjMZf3z8tw/exec';
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbwnJ1VbNl_9nqjcR1bIZMiRcoWZ2JUAlSVWEXlEcyMleq6Ng_RksuanISwy_81QerKAug/exec';
 
 /* ============================================================
    フォーム送信
